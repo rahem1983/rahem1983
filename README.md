@@ -1,12 +1,3 @@
--  Hi, I’m @rahim1983
-
--  How to reach me https://www.linkedin.com/in/rahemul-islam-18a037206/ 
-
-<!---
-rahim1983/rahim1983 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi 👋, I'm Rahemul Islam</h1>
 <h3 align="center">A Machine Learning Engineer</h3>
 
