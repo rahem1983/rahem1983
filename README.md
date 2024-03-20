@@ -1,7 +1,5 @@
 -  Hi, I’m @rahim1983
--  I’m interested in Machine Learning, specially in Computer vision 
--  I'm currently working on several Deep Learning projects
--  I’m looking forward to collaborate on any project related to ML & DL
+
 -  How to reach me https://www.linkedin.com/in/rahemul-islam-18a037206/ 
 
 <!---
@@ -18,11 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+-  I’m interested in Machine Learning, specially in Computer vision 
+-  I'm currently working on several Deep Learning projects
+-  I’m looking forward to collaborate on any project related to ML & DL
 
 <br><br>
 
